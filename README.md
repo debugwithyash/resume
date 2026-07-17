@@ -2,6 +2,9 @@
 
 A modern, responsive, and professional resume website built using **HTML5** and **CSS3**. This project showcases my skills, projects, certifications, education, and contact information in a clean and recruiter-friendly layout.
 
+## SCREENSHOT
+<a href="images/screenshot.png"> </a>
+
 ## 🚀 Live Demo
 
 🔗 **https://debugwithyash.github.io/resume/**
